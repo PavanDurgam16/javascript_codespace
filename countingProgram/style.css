@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  margin-top: 50px;;
+}
+#myLabel{
+  font-size: 10em;
+}
+
+button{
+  font-size: 1.5em;
+  width: 28%;
+  padding: 1% 2%;
+  margin: 0 1%;
+  border-radius: 15px;
+  color: #02442f;
+  border-color: #faebd7;
+}
